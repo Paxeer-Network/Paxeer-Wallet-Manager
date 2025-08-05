@@ -1,0 +1,39 @@
+{
+  "name": "paxeer-wallet-manager",
+  "version": "1.0.0",
+  "description": "SSO Wallet Manager for traditional Web3 wallets with session management and dApp connections",
+  "main": "PaxeerWalletManager.sol", 
+  "keywords": [
+    "wallet-manager",
+    "sso",
+    "session-management",
+    "web3-sso",
+    "ethereum",
+    "solidity",
+    "dapp-connections",
+    "traditional-wallets",
+    "paxeer"
+  ],
+  "author": "Paxeer Team", 
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paxeer/wallet-manager"
+  },
+  "homepage": "https://paxeer.network",
+  "bugs": {
+    "url": "https://github.com/paxeer/wallet-manager/issues" 
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0", 
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  },
+  "files": [
+    "PaxeerWalletManager.sol",
+    "README.md"
+  ]
+}
