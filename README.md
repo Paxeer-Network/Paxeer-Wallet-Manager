@@ -6,9 +6,9 @@ PaxeerWalletManager is a revolutionary Smart Single Sign-On (SSO) system for Web
 
 ## 📍 Deployment
 
-**Network**: Paxeer Network (Chain ID: 1313161822)  
-**Contract Address**: `0x64B053035b1eB3632eA1188Dd1CaE72FC0348153`  
-**Verification**: ✅ [View on Explorer](http://0x4e45425e.explorer.aurora-cloud.dev/address/0x64B053035b1eB3632eA1188Dd1CaE72FC0348153#code)
+**Network**: Paxeer Network (Chain ID: 80000)  
+**Contract Address**: `0x23eAcfad6C0208FB13203226162e05D85859Bc52`  
+**Verification**: ✅ [View on Explorer](https://paxscan.paxeer.app/address/0x23eAcfad6C0208FB13203226162e05D85859Bc52)
 
 ## 🎯 Key Features
 
